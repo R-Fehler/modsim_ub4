@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/richardmac/OneDrive - bwedu/00_ONEDRIVE UNI/M und S Nestler/modsim_ub4/build",
+  "command": "/usr/local/bin/gcc-8   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -o CMakeFiles/differenzenformeln.dir/differenzenformeln.c.o   -c \"/Users/richardmac/OneDrive - bwedu/00_ONEDRIVE UNI/M und S Nestler/modsim_ub4/differenzenformeln.c\"",
+  "file": "/Users/richardmac/OneDrive - bwedu/00_ONEDRIVE UNI/M und S Nestler/modsim_ub4/differenzenformeln.c"
+}
+]
